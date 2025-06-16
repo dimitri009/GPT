@@ -2,6 +2,9 @@
 
 This repository contains an implementation of a GPT-style language model from scratch, following the book **"Build a Large Language Model (From Scratch)"** by *Sebastian Raschka*. It includes training code, utilities, and a notebook to load GPT-2 weights from OpenAI.
 ![GPT](fig/GPT.jpg)
+
+[image credits](https://www.researchgate.net/publication/373352176_FLUID-GPT_Fast_Learning_to_Understand_and_Investigate_Dynamics_with_a_Generative_Pre-Trained_Transformer_Efficient_Predictions_of_Particle_Trajectories_and_Erosion)
+
 ---
 
 ## 📖 Project Overview
