@@ -1,0 +1,6 @@
+tiktoken==0.9.0
+pandas==2.3.0
+tensorflow==2.19.0
+tqdm==4.67.1
+torch==2.7.1+cu126
+torchvision==0.22.1+cu126
