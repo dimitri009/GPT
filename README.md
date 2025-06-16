@@ -1,7 +1,7 @@
 # 🧠 GPT from Scratch — Based on *"Build a Large Language Model (From Scratch)"*
 
 This repository contains an implementation of a GPT-style language model from scratch, following the book **"Build a Large Language Model (From Scratch)"** by *Sebastian Raschka*. It includes training code, utilities, and a notebook to load GPT-2 weights from OpenAI.
-
+![GPT](fig/GPT.jpg)
 ---
 
 ## 📖 Project Overview
